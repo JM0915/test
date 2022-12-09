@@ -1,0 +1,6 @@
+streamlit
+Image
+open-cv
+numpy
+tensorflow
+smtplib
